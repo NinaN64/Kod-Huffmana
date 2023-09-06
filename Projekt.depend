@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1643565503 source:c:\users\nina\documents\game projects\projekt\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+
